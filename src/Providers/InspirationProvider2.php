@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Ghusr\Inspire\Providers;
+namespace Ghusr\Inspire2\Providers;
 use Illuminate\Support\ServiceProvider;
 
 
-class InspirationProvider extends ServiceProvider
+class InspirationProvider2 extends ServiceProvider
 {
     /**
      * Bootstrap services.
@@ -15,6 +15,6 @@ class InspirationProvider extends ServiceProvider
     public function boot()
     {
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
-        $this->loadViewsFrom(__DIR__.'/../views', 'inspire');
+        $this->loadViewsFrom(__DIR__.'/../views', 'inspire2');
     }
 }
