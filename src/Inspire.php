@@ -1,6 +1,6 @@
 <?php
 
-namespace Ghusr\Inspire;
+namespace Ghusr\Inspire2;
 
 use Illuminate\Support\Facades\Http;
 
