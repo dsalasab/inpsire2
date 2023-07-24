@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ghusr\\Inspire\\": "src/"
+            "Ghusr\\Inspire2\\": "src/"
         }
     },
     "authors": [
