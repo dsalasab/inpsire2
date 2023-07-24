@@ -1,6 +1,6 @@
 <?php
 
-use Ghusr\Inspire\Controllers;
+use Ghusr\Inspire2\Controllers;
 use Illuminate\Support\Facades\Route;
 
-Route::get('inspire', Ghusr\Inspire\Controllers\InspirationController::class);
+Route::get('inspire_github', Ghusr\Inspire\Controllers\InspirationController::class);
