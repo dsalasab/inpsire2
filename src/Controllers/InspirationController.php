@@ -1,5 +1,5 @@
 <?php
-namespace Ghusr\Inspire\Controllers;
+namespace Ghusr\Inspire2\Controllers;
 
 
 use Illuminate\Http\Request;
